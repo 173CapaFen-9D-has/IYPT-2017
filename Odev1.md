@@ -7,8 +7,10 @@
  9-D   | Kevser Sıla Aykan      | 599
 
 #  MAGNETIC TRAIN (MAGNETİK TREN)
-## Özetenin özetini 
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+## Soru:
+Button magnets are attached to both ends of a small cylindrical battery. When placed in a copper coil such that the magnets contact the coil, this “train” starts to move. Explain the phenomenon and investigate how relevant parameters affect the train’s speed and power.
+İki ucuna düğme mıknatıs yerleştirilmiş silindirik pil bakırın içine yerleştirildiğinde mıknatıslar bakırla etkileşime girer ve bu tren hareket etmeye başlar. Bu ilginç olayı açıklayın, değişkenlerin trenin hızını ve gücünü nasıl değiştirdiğine bakınız.
+
 
 ## Kaynakçalar  
 Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
