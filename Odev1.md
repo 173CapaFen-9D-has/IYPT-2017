@@ -1,9 +1,10 @@
 
 
-Sınıf |       Ad Soyad         |Numara
-9-D   | Helin Bingöl           | 609
-9-D   | Ahmet Selim Alpkirişçi | 565
-9-D   | Kevser Sıla Aykan      | 601
+ Sınıf |       Ad Soyad         |Numara
+-------|------------------------|-------
+ 9-D   | Helin Bingöl           | 609
+ 9-D   | Ahmet Selim Alpkirişçi | 565
+ 9-D   | Kevser Sıla Aykan      | 601
 
 #  MAGNETIC TRAIN (MAGNETİK TREN)
 ## Özetenin özetini 
