@@ -1,14 +1,12 @@
 
 
-Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
+Sınıf |       Ad Soyad         |Numara
+9-D   | Helin Bingöl           | 609
+9-D   | Ahmet Selim Alpkirişçi | 565
+9-D   | Kevser Sıla Aykan      | 601
 
-Sınıf | Öğrenci İsmi  | Numara
--------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
-
-#  (buraya proje başlığını yazınız)
-## Özet
+#  MAGNETIC TRAIN (MAGNETİK TREN)
+## Özetenin özetini 
 Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
 
 ## Kaynakçalar  
