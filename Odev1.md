@@ -9,6 +9,7 @@
 #  MAGNETIC TRAIN (MAGNETİK TREN)
 ## Soru:
 Button magnets are attached to both ends of a small cylindrical battery. When placed in a copper coil such that the magnets contact the coil, this “train” starts to move. Explain the phenomenon and investigate how relevant parameters affect the train’s speed and power.
+
 İki ucuna düğme mıknatıs yerleştirilmiş silindirik pil bakırın içine yerleştirildiğinde mıknatıslar bakırla etkileşime girer ve bu tren hareket etmeye başlar. Bu ilginç olayı açıklayın, değişkenlerin trenin hızını ve gücünü nasıl değiştirdiğine bakınız.
 
 
