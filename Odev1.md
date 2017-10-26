@@ -11,8 +11,14 @@
 Button magnets are attached to both ends of a small cylindrical battery. When placed in a copper coil such that the magnets contact the coil, this “train” starts to move. Explain the phenomenon and investigate how relevant parameters affect the train’s speed and power.
 
 İki ucuna düğme mıknatıs yerleştirilmiş silindirik pil, bakır telin içine yerleştirildiğinde mıknatıslar bakırla etkileşime girer ve bu tren hareket etmeye başlar. Bu ilginç olayı açıklayın, değişkenlerin trenin hızını ve gücünü nasıl değiştirdiğine bakınız.
+## Araştırma:
+Deneyimizi gerçekleştirmeden önce elektriklendirilmiş mıknatıs ile bakır tel arasındaki ilişkiyi ve etkileşimi araştıracağız. 
 ## Deneyin Yapılışı ve Amacı:
-Bakır telimizi bir tünel gibi sarmal hale getiriyoruz. Daha sonra kalem pilimizin her iki kutbuna da düğme mıknatıslarımızı yerleştiriyoruz. Ardından pilimizi sarmal telimizin bir ucundan içeri bıraktığımızda oluşan hareketin nedenini ve hareketi etkileyen faktörleri araştırıyoruz.
+Bakır telimizi bir tünel gibi sarmal hale getiriyoruz. Daha sonra kalem pilimizin her iki kutbuna da düğme mıknatıslarımızı yerleştiriyoruz. Ardından pilimizi sarmal telimizin bir ucundan içeri bıraktığımızda oluşan hareketin nedenini ve hareketi etkileyen değişkenleri(bkz.) araştıracağız.
+### Faktörler:
+Bakır tel uzunluğu/kalınlığı
+Pillerin boyutunu
+
 
 ## Kaynakçalar  
 Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
