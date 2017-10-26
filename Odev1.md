@@ -15,9 +15,11 @@ Button magnets are attached to both ends of a small cylindrical battery. When pl
 Deneyimizi gerçekleştirmeden önce elektriklendirilmiş mıknatıs ile bakır tel arasındaki ilişkiyi ve etkileşimi araştıracağız. 
 ## Deneyin Yapılışı ve Amacı:
 Bakır telimizi bir tünel gibi sarmal hale getiriyoruz. Daha sonra kalem pilimizin her iki kutbuna da düğme mıknatıslarımızı yerleştiriyoruz. Ardından pilimizi sarmal telimizin bir ucundan içeri bıraktığımızda oluşan hareketin nedenini ve hareketi etkileyen değişkenleri(bkz.) araştıracağız.
-### Faktörler:
+### Değişkenler:
 Bakır tellerin uzunluğu/kalınlığı
+
 Pillerin boyutu
+
 Mıknatısların gücü 
 
 ## Kaynakçalar  
