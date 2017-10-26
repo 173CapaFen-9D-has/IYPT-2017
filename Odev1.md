@@ -16,9 +16,9 @@ Deneyimizi gerçekleştirmeden önce elektriklendirilmiş mıknatıs ile bakır 
 ## Deneyin Yapılışı ve Amacı:
 Bakır telimizi bir tünel gibi sarmal hale getiriyoruz. Daha sonra kalem pilimizin her iki kutbuna da düğme mıknatıslarımızı yerleştiriyoruz. Ardından pilimizi sarmal telimizin bir ucundan içeri bıraktığımızda oluşan hareketin nedenini ve hareketi etkileyen değişkenleri(bkz.) araştıracağız.
 ### Faktörler:
-Bakır tel uzunluğu/kalınlığı
-Pillerin boyutunu
-
+Bakır tellerin uzunluğu/kalınlığı
+Pillerin boyutu
+Mıknatısların gücü 
 
 ## Kaynakçalar  
 Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
