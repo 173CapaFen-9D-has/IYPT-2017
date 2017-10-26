@@ -4,7 +4,7 @@
 -------|------------------------|-------
  9-D   | Helin Bingöl           | 609
  9-D   | Ahmet Selim Alpkirişçi | 565
- 9-D   | Kevser Sıla Aykan      | 601
+ 9-D   | Kevser Sıla Aykan      | 599
 
 #  MAGNETIC TRAIN (MAGNETİK TREN)
 ## Özetenin özetini 
